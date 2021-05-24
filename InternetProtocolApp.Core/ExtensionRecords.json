@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "ipApi",
+    "TimeTakenRecord": [ 166, 167, 173, 173, 176, 176, 177, 178, 179, 181, 182, 182, 183, 189, 191, 371 ],
+    "Statuses": [ 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0 ],
+    "AverageTimeTaken": 178,
+    "SuccessPercentage": 75.0
+  },
+  {
+    "Name": "ipWhoIsApi",
+    "TimeTakenRecord": [ 173, 180, 183, 184, 187, 188, 189, 189, 193, 224, 232 ],
+    "Statuses": [ 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0 ],
+    "AverageTimeTaken": 192,
+    "SuccessPercentage": 73.333333333333329
+  },
+  {
+    "Name": "geolocationApi",
+    "TimeTakenRecord": [ 145, 147, 152, 153, 153, 153, 158, 167, 444, 584, 648, 868 ],
+    "Statuses": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "AverageTimeTaken": 314,
+    "SuccessPercentage": 100.0
+  }
+]

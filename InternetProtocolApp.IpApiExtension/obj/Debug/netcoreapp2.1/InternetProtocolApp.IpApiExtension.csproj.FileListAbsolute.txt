@@ -1,0 +1,17 @@
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.deps.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.runtimeconfig.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.runtimeconfig.dev.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.pdb
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.Common.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.Common.pdb
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.RazorAssemblyInfo.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.RazorAssemblyInfo.cs
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.AssemblyInfoInputs.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.AssemblyInfo.cs
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.RazorTargetAssemblyInfo.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.csproj.CopyComplete
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpApiExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpApiExtension.pdb

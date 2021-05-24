@@ -1,0 +1,14 @@
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\bin\Debug\netcoreapp2.1\InternetProtocolApp.deps.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\bin\Debug\netcoreapp2.1\InternetProtocolApp.runtimeconfig.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\bin\Debug\netcoreapp2.1\InternetProtocolApp.runtimeconfig.dev.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\bin\Debug\netcoreapp2.1\InternetProtocolApp.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\obj\Debug\netcoreapp2.1\InternetProtocolApp.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\obj\Debug\netcoreapp2.1\InternetProtocolApp.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\obj\Debug\netcoreapp2.1\InternetProtocolApp.RazorAssemblyInfo.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\obj\Debug\netcoreapp2.1\InternetProtocolApp.RazorAssemblyInfo.cs
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\obj\Debug\netcoreapp2.1\InternetProtocolApp.AssemblyInfoInputs.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\obj\Debug\netcoreapp2.1\InternetProtocolApp.AssemblyInfo.cs
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\obj\Debug\netcoreapp2.1\InternetProtocolApp.RazorTargetAssemblyInfo.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\bin\Debug\netcoreapp2.1\InternetProtocolApp.pdb
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\obj\Debug\netcoreapp2.1\InternetProtocolApp.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp\obj\Debug\netcoreapp2.1\InternetProtocolApp.pdb

@@ -1,0 +1,17 @@
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\bin\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.deps.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\bin\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.runtimeconfig.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\bin\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.runtimeconfig.dev.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\bin\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\bin\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.pdb
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\bin\Debug\netcoreapp2.1\InternetProtocolApp.Common.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\bin\Debug\netcoreapp2.1\InternetProtocolApp.Common.pdb
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\obj\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\obj\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\obj\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.RazorAssemblyInfo.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\obj\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.RazorAssemblyInfo.cs
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\obj\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.AssemblyInfoInputs.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\obj\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.AssemblyInfo.cs
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\obj\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.RazorTargetAssemblyInfo.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\obj\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.csproj.CopyComplete
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\obj\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.GeolocationApi\obj\Debug\netcoreapp2.1\InternetProtocolApp.GeolocationApiExtension.pdb

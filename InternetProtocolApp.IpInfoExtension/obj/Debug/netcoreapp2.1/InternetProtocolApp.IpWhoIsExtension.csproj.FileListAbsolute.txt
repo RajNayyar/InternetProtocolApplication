@@ -1,0 +1,17 @@
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.deps.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.runtimeconfig.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.runtimeconfig.dev.json
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.pdb
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.Common.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\bin\Debug\netcoreapp2.1\InternetProtocolApp.Common.pdb
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.RazorAssemblyInfo.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.RazorAssemblyInfo.cs
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.AssemblyInfoInputs.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.AssemblyInfo.cs
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.RazorTargetAssemblyInfo.cache
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.csproj.CopyComplete
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.dll
+C:\Users\rnayyar\source\repos\InternetProtocolApp\InternetProtocolApp.IpInfoExtension\obj\Debug\netcoreapp2.1\InternetProtocolApp.IpWhoIsExtension.pdb
